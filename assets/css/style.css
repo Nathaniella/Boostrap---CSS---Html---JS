@@ -1,0 +1,29 @@
+#container-1 {
+    background-color: lightcyan;
+}
+
+#container-2 {
+    background-color: lightslategray;
+}
+
+.item-icon {
+    font-size: 40px;
+}
+
+.border {
+    border: solid 1px #000;
+}
+
+.text-red {
+    text-emphasis-color: red;
+}
+
+#section1 {
+    height: 600px;
+    background-color: pink;
+}
+
+#section2 {
+    height: 600px;
+    background-color: yellow;
+}
